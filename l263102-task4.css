@@ -1,0 +1,82 @@
+
+
+#container 
+{
+    background-color: white;
+    width: 750px;
+    margin: auto;
+    border: 10px solid white;
+}
+
+#header 
+{
+    background-color: lightblue;
+    text-align: right;
+    color: teal;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#subtitle 
+{
+    font-size: 14px;
+    font-weight: normal;
+}
+
+#friends 
+{
+    background-color: lightblue;
+    border: 4px solid teal;
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+#friends h2 
+{
+    color: teal;
+    text-align: center;
+    font-weight: normal;
+}
+.two
+{
+     color: red;
+}
+
+.one
+{
+     color: white;
+}
+
+.entry 
+{
+    border: 4px solid lightblue;
+    width: 500px;
+    float: right;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+
+.entry h2 
+{
+    color: teal;
+    font-weight: normal;
+}
+
+.date {
+    border-bottom: 2px dashed purple;
+   
+}
+
+.entry img 
+{
+    width: 150px;
+    float: right;
+    margin: 5px;
+}
+
+.entry p 
+{
+    color: red;
+}
